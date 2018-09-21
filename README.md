@@ -12,7 +12,7 @@ Example: https://youtu.be/4IEHUBxK9pE (8bitcli_keyboardtest)
 
 License: Non-Commercial (AGPL) see LICENSE for details
 
-Platform: Compiles with the IDE GameMaker Studio 1.2 - 1.4 era
+Platform: Compiles with the IDE GameMaker Studio 1.2 - 1.4 era - could be upgraded to GMS 2.0 -- originally developed using Master Collection GMS 1.2
 
 Multiple attempts were made to write an "omniclient" for web, iphone, ipad, android in "GameMaker Studio" but it was not a complete success.  
 
