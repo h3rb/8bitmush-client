@@ -1,0 +1,19 @@
+global.surfaces=0;
+global.screen       =init_surface_dimensions( 0, "screen", global.width, global.height, c_black, 0 );
+global.screen2      =init_surface_dimensions( 1, "screen2", global.width, global.height, c_black, 0 );
+global.screen3      =init_surface_dimensions( 2, "screen3", global.width, global.height, c_black, 0 );
+global.hud_surface  =init_surface_dimensions( 3, "hud", global.width, global.height, c_black, 0 );
+global.surface_tiny =init_surface_dimensions( 4, "tiny", 64, 64, c_black, 0 );
+global.surface_1024 =init_surface_dimensions( 5, "1024", 1024, 1024, c_black, 0 );
+global.surface_512  =init_surface_dimensions( 6, "512", 512, 512, c_black, 0 );
+global.surface_512a =init_surface_dimensions( 7, "512a", 512, 512, c_black, 0 );
+global.surface_512b =init_surface_dimensions( 8, "512b", 512, 512, c_black, 0 );
+global.surface_256  =init_surface_dimensions( 9, "256", 256, 256, c_black, 0 );
+global.surface_128  =init_surface_dimensions( 10, "128", 128, 128, c_black, 0 );
+global.surface_64   =init_surface_dimensions( 11, "64", 64, 64, c_black, 0 );
+global.surface_32   =init_surface_dimensions( 12, "32", 32, 32, c_black, 0 );
+global.surface_16   =init_surface_dimensions( 13, "16", 16, 16, c_black, 0 );
+global.surface_1    =init_surface_dimensions( 14, "1", 1, 1, c_black, 0 );
+global.surface_bg   =init_surface_dimensions( 15, "bg", global.width, global.height, c_black, 0 );
+global.surface_1024b=init_surface_dimensions( 16, "1024b", 1024, 1024, c_black, 0 );
+
